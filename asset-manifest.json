@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/raneparasp/static/css/main.e9f6f6e1.chunk.css",
+    "main.js": "/raneparasp/static/js/main.952d0708.chunk.js",
+    "main.js.map": "/raneparasp/static/js/main.952d0708.chunk.js.map",
+    "runtime-main.js": "/raneparasp/static/js/runtime-main.0036450b.js",
+    "runtime-main.js.map": "/raneparasp/static/js/runtime-main.0036450b.js.map",
+    "static/css/2.86df01db.chunk.css": "/raneparasp/static/css/2.86df01db.chunk.css",
+    "static/js/2.961357d5.chunk.js": "/raneparasp/static/js/2.961357d5.chunk.js",
+    "static/js/2.961357d5.chunk.js.map": "/raneparasp/static/js/2.961357d5.chunk.js.map",
+    "index.html": "/raneparasp/index.html",
+    "precache-manifest.d5c18042d2e7762be1a4c324816d5efa.js": "/raneparasp/precache-manifest.d5c18042d2e7762be1a4c324816d5efa.js",
+    "service-worker.js": "/raneparasp/service-worker.js",
+    "static/css/2.86df01db.chunk.css.map": "/raneparasp/static/css/2.86df01db.chunk.css.map",
+    "static/css/main.e9f6f6e1.chunk.css.map": "/raneparasp/static/css/main.e9f6f6e1.chunk.css.map",
+    "static/js/2.961357d5.chunk.js.LICENSE.txt": "/raneparasp/static/js/2.961357d5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0036450b.js",
+    "static/css/2.86df01db.chunk.css",
+    "static/js/2.961357d5.chunk.js",
+    "static/css/main.e9f6f6e1.chunk.css",
+    "static/js/main.952d0708.chunk.js"
+  ]
+}
