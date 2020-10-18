@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/RanepaRasp/precache-manifest.ab1b3f5c82b1eb2f756f2bfc058377d1.js"
+  "/RanepaRasp/precache-manifest.5783f04d9e6c569526c97c3d19e5b181.js"
 );
 
 self.addEventListener('message', (event) => {
