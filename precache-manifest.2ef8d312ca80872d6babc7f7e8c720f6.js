@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ba729ae1662d946286940584b959e435",
+    "revision": "16f27a850762eae9110b4fe05b6e458a",
     "url": "/RanepaRasp/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RanepaRasp/static/css/2.86df01db.chunk.css"
   },
   {
-    "revision": "da4333d872de17da6ff8",
+    "revision": "853aa6f354ffb404a775",
     "url": "/RanepaRasp/static/css/main.1c08c8c3.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/RanepaRasp/static/js/2.b92d50b8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "da4333d872de17da6ff8",
-    "url": "/RanepaRasp/static/js/main.71a26277.chunk.js"
+    "revision": "853aa6f354ffb404a775",
+    "url": "/RanepaRasp/static/js/main.8e09c922.chunk.js"
   },
   {
     "revision": "4e6a1416d3da8a2d8d72",

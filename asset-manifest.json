@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/RanepaRasp/static/css/main.1c08c8c3.chunk.css",
-    "main.js": "/RanepaRasp/static/js/main.71a26277.chunk.js",
-    "main.js.map": "/RanepaRasp/static/js/main.71a26277.chunk.js.map",
+    "main.js": "/RanepaRasp/static/js/main.8e09c922.chunk.js",
+    "main.js.map": "/RanepaRasp/static/js/main.8e09c922.chunk.js.map",
     "runtime-main.js": "/RanepaRasp/static/js/runtime-main.e91c004f.js",
     "runtime-main.js.map": "/RanepaRasp/static/js/runtime-main.e91c004f.js.map",
     "static/css/2.86df01db.chunk.css": "/RanepaRasp/static/css/2.86df01db.chunk.css",
     "static/js/2.b92d50b8.chunk.js": "/RanepaRasp/static/js/2.b92d50b8.chunk.js",
     "static/js/2.b92d50b8.chunk.js.map": "/RanepaRasp/static/js/2.b92d50b8.chunk.js.map",
     "index.html": "/RanepaRasp/index.html",
-    "precache-manifest.1bbd7697faac12754a0debecc9694db5.js": "/RanepaRasp/precache-manifest.1bbd7697faac12754a0debecc9694db5.js",
+    "precache-manifest.2ef8d312ca80872d6babc7f7e8c720f6.js": "/RanepaRasp/precache-manifest.2ef8d312ca80872d6babc7f7e8c720f6.js",
     "service-worker.js": "/RanepaRasp/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/RanepaRasp/static/css/2.86df01db.chunk.css.map",
     "static/css/main.1c08c8c3.chunk.css.map": "/RanepaRasp/static/css/main.1c08c8c3.chunk.css.map",
@@ -20,6 +20,6 @@
     "static/css/2.86df01db.chunk.css",
     "static/js/2.b92d50b8.chunk.js",
     "static/css/main.1c08c8c3.chunk.css",
-    "static/js/main.71a26277.chunk.js"
+    "static/js/main.8e09c922.chunk.js"
   ]
 }
